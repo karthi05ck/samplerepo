@@ -6,6 +6,7 @@ public class LoginPage {
 	{
 		System.out.println("This is Login page");
 		
-		String pwd = "user";
+		String pwd = "user1111";
+		
 	}
 }
