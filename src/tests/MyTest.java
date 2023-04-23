@@ -2,9 +2,9 @@ package tests;
 
 public class MyTest {
 	
-	public voide newTest() {
+	public void newTest() {
 		
-		System.out.println("Testing commit");
+		System.out.println("Testing commiting");
 	}
 
 }
