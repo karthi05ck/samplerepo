@@ -8,6 +8,8 @@ public class Regpage {
 		String newPage;
 		String city = "NY";
 		int age = 20;
+		String gender;
+		
 		
 
 	}
