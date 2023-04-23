@@ -6,6 +6,9 @@ public class Regpage {
 		// TODO Auto-generated method stub
 		
 		String newPage;
+		String city = "NY";
+		int age = 20;
+		
 
 	}
 
